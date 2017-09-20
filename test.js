@@ -1,5 +1,5 @@
 'use strict';
 
-// const greet = require('./lib/greet.js');
-//
-// console.log(greet(69));
+const math = require('./lib/arithmetic.js');
+
+console.log(math.add(6,9));
