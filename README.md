@@ -55,4 +55,4 @@ In your README.md describe the exported values of each module defined in your li
   * math.add will return to you the sum of the two parameters (parameters must be integers!)
   * math.subtract will return to you the difference of the two parameters (parameters must be integers!)
 
-* The greet module contains one function that takes a 'string' as the parameter. The function will return 'hello' + the string value given as an argument. 
+* The greet module contains one function that takes a 'string' as the parameter. The function will return 'hello' + the string value given as an argument.
